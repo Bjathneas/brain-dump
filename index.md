@@ -1,6 +1,4 @@
 ---
-title: Welcome
+title: Blog
+layout: blog
 ---
-**Welcome** to Bjathneas Brain Dump
-
-A place where chaos ensues
