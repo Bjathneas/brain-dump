@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Why Make A Game Engine?"
+categories: ["Games", "Game Engine", "Shit Post", "bEngine"]
 date: 2024-11-1
 author: Bjathneas
 ---
